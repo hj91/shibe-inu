@@ -1,0 +1,30 @@
+{
+  "name": "shibe-inu",
+  "version": "1.0.0-a",
+  "description": "A pet simulator for a Shiba Inu dog with a state based model",
+  "main": "shibeinu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hj91/shibe-inu.git"
+  },
+  "keywords": [
+    "Shibe Inu",
+    "Pet Simulator",
+    "Node.js",
+    "State Model",
+    "Doge"
+  ],
+  "author": "Harshad Joshi (github.com/hj91)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hj91/shibe-inu/issues"
+  },
+  "homepage": "https://github.com/hj91/shibe-inu#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
+
